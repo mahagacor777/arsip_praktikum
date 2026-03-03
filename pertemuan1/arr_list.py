@@ -1,6 +1,6 @@
 #MEMBUAT ARRAY KOSONG
-DATA_NILAI= []
-JUMLAH_KELAS = int (input("masukkan jumlah kelas : "))
+data_nilai= []
+jumlah_kelas = int (input("masukkan jumlah kelas : "))
 
 for i in range (jumlah_kelas):
   print(f"\nmahasiswa ke- {i+1}")
